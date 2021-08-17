@@ -4,7 +4,7 @@
 
 Training and improve my abilities about Design Patterns.
 
-## What i expect learn with this projetct?
+## What i expect learn/improve with this projetct?
   - Jest;
   - Fluent Interface;
   - Builder;
